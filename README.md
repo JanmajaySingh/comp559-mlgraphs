@@ -1,2 +1,2 @@
-# comp559-mlgraphs
-All solutions to coding problems from COMP559.
+# comp559
+Solution JNBs for COMP559: Machine Learning with Graphs assignments
